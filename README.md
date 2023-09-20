@@ -6,7 +6,8 @@
 ![寒蝉书体_01](https://github.com/Warren2060/ChillCalligraphy/assets/87366329/49468316-069d-40ef-b67e-ea495ff6141e)
 ![寒蝉书体_画板 1 副本 4](https://github.com/Warren2060/ChillCalligraphy/assets/87366329/ffc36bbb-ee85-4fc4-bfd9-4bccd99d5a4b)
 ![寒蝉书体_画板 1 副本 5](https://github.com/Warren2060/ChillCalligraphy/assets/87366329/d4a66304-f360-4768-9f64-2a44ea35d802)
-![寒蝉书体_画板 1 副本](https://github.com/Warren2060/ChillCalligraphy/assets/87366329/7e6e4c19-f197-47bc-9ba4-820baf7d9036)
+![寒蝉书体_画板 1 副本 3](https://github.com/Warren2060/ChillCalligraphy/assets/87366329/7f0a2ceb-71d1-4059-b40d-fa2b8f3d4d41)
+
 
 ### 寒蝉书体·龙藏
 1.修复“敏”与“毓”的字符映射错误，修复“划”。 <br>
